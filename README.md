@@ -1,7 +1,5 @@
-<h1 align="center">
- 👋 Hi There !
+## 👋 &nbsp;Hi there ! 
 <img width="45" src="https://raw.githubusercontent.com/nvhitori/nvhitori/main/images/anime1.webp" alt="nvhitori"/>
-</p>
 
 ### &nbsp;About Me
 
@@ -13,7 +11,7 @@
 
 - ✨ Interested in Web development.
 
--  🍂 Not a Programmer I just love studying, develop, and experiment 
+-  🍂 Not a Programmer I just like studying, develop, and experiment 
        with programs and amazing things on the internet.
 
 ### &nbsp;Languages & Tools:
