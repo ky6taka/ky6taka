@@ -1,5 +1,5 @@
 ## 👋 &nbsp;Hi there ! 
-<img width="45" src="https://raw.githubusercontent.com/nvhitori/nvhitori/main/images/anime1.webp" alt="nvhitori"/>
+<img width="45" src="https://raw.githubusercontent.com/nvhitori/nvhitori/main/images/anime1.webp" alt="nvhitori"/>  <img src="https://komarev.com/ghpvc/?username=Azyansah&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="Azyansah" />
 
 ### &nbsp;About Me
 
@@ -22,4 +22,15 @@
 
 ### &nbsp;Connect with me:
 
-[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://api.whatsapp.com/send/?phone=6282125276167)
+  <a href="https://instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
+  </a>
+  <a href="https://youtube.com/" target="_blank">
+    <img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=071A2C" alt="YouTube"/>
+  </a>
+<a href="https://facebook.com/" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
+  </a>
+<a href="https://facebook.com/" target="_blank">
+    <img src="https://img.shields.io/badge/whatsapp-%2312100E.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=071A2C" alt="Whatsapp"/>
+    
