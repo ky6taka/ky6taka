@@ -1,4 +1,4 @@
-## 👋 &nbsp;Hi there !
+## 👋 &nbsp;Hi !
 <img src="https://komarev.com/ghpvc/?username=nxvall&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="nxvall" />
 
 ### &nbsp;About Me
